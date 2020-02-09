@@ -1,0 +1,35 @@
+{
+    "name": "amanda",
+    "displayName": "Amanda",
+    "description": "Red theme for Saw's fans",
+    "version": "1.6.1",
+    "icon": "images/saw.png",
+    "galleryBanner": {
+        "color": "#23262E",
+        "theme": "dark"
+    },
+    "publisher": "Neo",
+    "author": {
+        "name": "Neo",
+        "url": "https://github.com/Neotoxic-off",
+        "email": "neotoxic.off@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/Neotoxic-off/Amanda"
+    },
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Amanda",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Amanda-color-theme.json"
+            }
+        ]
+    }
+}
