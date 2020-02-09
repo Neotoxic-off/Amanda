@@ -1,35 +1,40 @@
 {
-    "name": "amanda",
-    "displayName": "Amanda",
-    "description": "Red theme for Saw's fans",
-    "version": "1.6.1",
-    "icon": "images/saw.png",
-    "galleryBanner": {
-        "color": "#23262E",
-        "theme": "dark"
-    },
-    "publisher": "Neo",
-    "author": {
-        "name": "Neo",
-        "url": "https://github.com/Neotoxic-off",
-        "email": "neotoxic.off@gmail.com"
-    },
-    "repository": {
-        "url": "https://github.com/Neotoxic-off/Amanda"
-    },
-    "engines": {
-        "vscode": "^1.14.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Amanda",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Amanda-color-theme.json"
-            }
-        ]
-    }
+	"name": "amanda",
+	"displayName": "Amanda",
+	"description": "Bloody theme for Vscode",
+	"version": "1.6.5",
+	"icon": "images/saw.png",
+	"galleryBanner": {
+		"color": "#23262E",
+		"theme": "dark"
+	},
+	"publisher": "ISSOU",
+	"author": {
+		"name": "Neo",
+		"url": "https://github.com/Neotoxic-off",
+		"email": "neotoxic.off@gmail.com"
+	},
+	"repository": {
+		"url": "https://github.com/Neotoxic-off/Amanda"
+	},
+	"engines": {
+		"vscode": "^1.14.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Amanda",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Amanda.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "3d7105df-3690-4cce-bffc-cc81d26f934d",
+		"publisherId": "5aac9507-5e55-45d4-a720-016b7de9b2b2",
+		"publisherDisplayName": "ISSOU"
+	}
 }

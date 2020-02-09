@@ -55,6 +55,7 @@
         "sideBarTitle.foreground": "#ff3737",
         "sideBar.foreground": "#746f77",
 
+        "editorGroup.background": "#23262E",
         "editorGroup.dropBackground": "#495061d7",
         "editorGroupHeader.tabsBackground": "#23262E",
         "tab.activeBackground": "#23262E",
@@ -146,6 +147,13 @@
 
         "titleBar.activeBackground": "#ffffff",
 
+        "notification.background": "#2d313b",
+        "notification.buttonBackground": "#00e8c5cc",
+        "notification.buttonHoverBackground": "#07d4b5b0",
+        "notification.infoBackground": "#00b0ff",
+        "notification.warningBackground": "#FF9F2E",
+        "notification.errorBackground": "#FC644D",
+
         "extensionButton.prominentBackground": "#746f77",
         "extensionButton.prominentHoverBackground": "#ff3737",
 
@@ -156,11 +164,11 @@
 
         "walkThrough.embeddedEditorBackground": "#23262E"
     },
-    "tokenColors": "test",
-    "scope": [
+    "tokenColors": [
         {
             "settings": {
-                "foreground": "#D5CED9"
+                "foreground": "#D5CED9",
+                "background": "#23262E"
             }
         },
         {
