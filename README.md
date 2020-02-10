@@ -1,5 +1,5 @@
 # Amanda
-*Bloody Visual Studio Code's theme*
+*🩸 Bloody theme for Vscode*
 
 <div align="center">
   <img src="https://img.shields.io/badge/Release-V1.0.0-success?style=for-the-badge&logo=github&colorA=2b303b&colorB=96E072"">
