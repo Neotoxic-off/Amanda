@@ -99,7 +99,7 @@
         "editorSuggestWidget.border": "#372F3C",
         "editorSuggestWidget.selectedBackground": "#373941",
         "editorHoverWidget.background": "#373941",
-        "editorHoverWidget.border": "#ff3737",
+        "editorHoverWidget.border": "#b1b6c5",
         "debugExceptionWidget.background": "#23262E",
         "debugExceptionWidget.border": "#FF9F2E60",
 
@@ -110,7 +110,7 @@
         "peekViewResult.matchHighlightBackground": "#FF9F2E",
         "peekViewResult.selectionBackground": "#23262E",
         "peekViewTitle.background": "#23262E",
-        "peekViewTitleDescription.foreground": "#cc00ff",
+        "peekViewTitleDescription.foreground": "#b1b6c5",
 
         "merge.currentHeaderBackground": "#23262E",
         "merge.currentContentBackground": "#23262E",
@@ -118,9 +118,9 @@
         "merge.incomingContentBackground": "#23262E",
 
         "panel.background": "#23262E",
-        "panel.border": "#b1b6c5",
-        "panelTitle.activeBorder": "#648dff",
-        "panelTitle.inactiveForeground": "#b22eff",
+        "panel.border": "#23262E",
+        "panelTitle.activeBorder": "#ff3737",
+        "panelTitle.inactiveForeground": "#b1b6c5",
 
         "statusBar.background": "#23262E",
         "statusBar.debuggingBackground": "#23262E",
@@ -134,18 +134,18 @@
         "terminal.ansiGreen":"#96E072",
         "terminal.ansiYellow":"#FFE66D",
         "terminal.ansiBlue":"#7cb7ff",
-        "terminal.ansiMagenta":"#ac3b3b",
+        "terminal.ansiMagenta":"#ff00ff",
         "terminal.ansiCyan":"#00e8c6",
         "terminal.ansiBrightRed":"#ff3737",
         "terminal.ansiBrightGreen":"#96E072",
         "terminal.ansiBrightYellow":"#FFE66D",
         "terminal.ansiBrightBlue":"#7cb7ff",
-        "terminal.ansiBrightMagenta":"#ff3737",
+        "terminal.ansiBrightMagenta":"#ff00ff",
         "terminal.ansiBrightCyan":"#00e8c6",
         "terminalCursor.background": "#23262E",
-        "terminalCursor.foreground": "#FFE66D",
+        "terminalCursor.foreground": "#ffffff",
 
-        "titleBar.activeBackground": "#ffffff",
+        "titleBar.activeBackground": "#23262E",
 
         "notification.background": "#2d313b",
         "notification.buttonBackground": "#00e8c5cc",
@@ -161,7 +161,7 @@
         "pickerGroup.foreground": "#746f77",
 
         "debugToolBar.background": "#20232A",
-
+        
         "walkThrough.embeddedEditorBackground": "#23262E"
     },
     "tokenColors": [
