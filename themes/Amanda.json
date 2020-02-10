@@ -22,7 +22,7 @@
         "inputValidation.infoBackground": "#23262E",
         "inputValidation.infoBorder": "#ff3737",
         "inputValidation.warningBackground": "#23262E",
-        "inputValidation.warningBorder": "#ff3737",
+        "inputValidation.warningBorder": "#ff7b00",
 
         "scrollbar.shadow": "#3A3F4CCC",
         "scrollbarSlider.activeBackground": "#3A3F4CCC",

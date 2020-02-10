@@ -2,7 +2,7 @@
 	"name": "amanda",
 	"displayName": "Amanda",
 	"description": "Bloody theme for Vscode",
-	"version": "1.6.5",
+	"version": "1.6.7",
 	"icon": "images/saw.png",
 	"galleryBanner": {
 		"color": "#23262E",
