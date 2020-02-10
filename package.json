@@ -31,5 +31,10 @@
 				"path": "./themes/Amanda.json"
 			}
 		]
-	}
+	},
+	"__metadata": {
+                "id": "3d7105df-3690-4cce-bffc-cc81d26f934d",
+                "publisherId": "5aac9507-5e55-45d4-a720-016b7de9b2b2",
+                "publisherDisplayName": "ISSOU"
+        }
 }
